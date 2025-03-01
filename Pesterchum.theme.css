@@ -14,8 +14,8 @@
 
 /* See https://github.com/MiniDiscordThemes/Pesterchum#customisation for customisation settings. */
 :root {
-    --chum-dark: #C48A00;
-    --chum-medium: #FDB302;
+    --chum-dark: ##000000;
+    --chum-medium: #FFB503;
     --chum-light: #FFF700;
     --chum-sidebar-width: 300px;
 }
